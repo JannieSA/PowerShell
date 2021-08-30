@@ -7,3 +7,6 @@ Script Parameters:
 Get-RecursiveNestedGroupInfo.ps1 -GroupName "Group Name Here..." -OutputScreen $true
 
 As a visual aid text in yellow is groups, text in green is users.
+
+![image](https://user-images.githubusercontent.com/6281748/131317686-e4e59232-46e6-4be1-b738-bdcc268707bd.png)
+
